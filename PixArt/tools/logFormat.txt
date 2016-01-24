@@ -1,0 +1,10 @@
+Start
+Session Marker (3 bytes) (7B98A0)
+	Sample Run Marker (3 bytes) (A4CB80)
+		Write timestamp (4 bytes)
+		Write mask (1 bytes)
+		Per blob:
+		Write X (2 bytes)
+		Write Y (2 bytes)
+	End of Sample Marker (3 bytes) (DBBACD)
+End

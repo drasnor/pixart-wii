@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For PixArt
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Blob	KEYWORD1
+PixArt	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setSensitivity	KEYWORD2
+getSensitivity	KEYWORD2
+getBlobX	KEYWORD2
+getBlobY	KEYWORD2
+read	KEYWORD2
+getActiveBlobs	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

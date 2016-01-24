@@ -1,0 +1,20 @@
+1x 25MHz crystal oscillator: http://www.mouser.com/ProductDetail/ABRACON/ACHL-25000MHZ-EK
+
+1x 10uF 1206 capacitor: http://www.mouser.com/ProductDetail/Vishay-Sprague/TR3A106K010C2000
+
+1x 0.1 Molex SL RA x4 male header: http://www.mouser.com/ProductDetail/Molex/70553-0003
+
+2x 2.2k Ohm 1206 resistor: http://www.mouser.com/ProductDetail/Vishay-Dale/CRCW12062K20FKEA
+
+1x 22k Ohm 1206 resistor: http://www.mouser.com/ProductDetail/Vishay-Dale/CRCW12062K20FKEA
+
+1x 0.1 uF 1206 capacitor: http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206Y104KXXMP
+
+1x 1.0 uF 1206 capacitor: http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206V105ZXXTW1BC
+
+WiiMote
+5 for 30: http://cgi.ebay.com/LOT-5-BAD-Official-NINTENDO-Wii-REMOTE-CONTROLLER-AS-IS-/160520639555?pt=Video_Games_Accessories&hash=item255fc69443
+
+2 for 7: http://cgi.ebay.com/2-Wii-remotes-BROKEN-/300579161464?pt=Video_Games_Accessories&hash=item45fbea0578
+
+Advanced Circuits PCB fab: $33 + s/h

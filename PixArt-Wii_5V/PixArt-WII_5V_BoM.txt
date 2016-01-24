@@ -1,0 +1,25 @@
+1x 25MHz crystal oscillator: http://www.mouser.com/ProductDetail/ABRACON/ACHL-25000MHZ-EK
+
+1x REG117-3.3 TI/BB 800mA 3.3V LDO regulator: http://www.mouser.com/ProductDetail/Texas-Instruments/REG1117-33-2K5
+
+2x BSN20 small signal N-MOSFET: http://www.mouser.com/ProductDetail/NXP/BSN20215
+
+1x 10uF 1206 capacitor: http://www.mouser.com/ProductDetail/Vishay-Sprague/TR3A106K010C2000
+
+1x 0.1 KK RA x4 male header: http://www.mouser.com/ProductDetail/Molex/22-05-3041
+
+4x 2.2k Ohm 1206 resistor: http://www.mouser.com/ProductDetail/Vishay-Dale/CRCW12062K20FKEA
+
+1x 22k Ohm 1206 resistor: http://www.mouser.com/ProductDetail/Vishay-Dale/CRCW12062K20FKEA
+
+2x 0.1 uF 1206 capacitor http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206Y104KXXMP
+
+
+$13.02
+
+WiiMote
+5 for 30: http://cgi.ebay.com/LOT-5-BAD-Official-NINTENDO-Wii-REMOTE-CONTROLLER-AS-IS-/160520639555?pt=Video_Games_Accessories&hash=item255fc69443
+
+2 for 7: http://cgi.ebay.com/2-Wii-remotes-BROKEN-/300579161464?pt=Video_Games_Accessories&hash=item45fbea0578
+
+Advanced Circuits PCB fab: $33 + s/h
